@@ -2,3 +2,7 @@
 **/checkpoints
 ms_marco_embedding.npy
 **/*.npy
+**/*.out
+**/models/**
+**/results/**
+train/data/**
